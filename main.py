@@ -20,3 +20,4 @@ while True:
         print("Your number is above 1000.")
     else:
         checknumber(userinput)  
+ 
